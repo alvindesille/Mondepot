@@ -1,2 +1,2 @@
-Depot pour le tp
+Depot pour le tp sur git 
 c'est un projet d'apprentissage pour git 
