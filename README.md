@@ -1,2 +1,4 @@
-Depot pour le tp
-C'est un projet d'apprentissage pour git
+#mondepot
+Depot pour le tp sur git 
+c'est un projet d'apprentissage pour git en BTS SIO
+
